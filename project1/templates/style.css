@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('c:\\Users\\Vengadesh\\Pictures\\image.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    
+
+}
+nav{
+
+    text-decoration: none;
+    margin: 0px ;
+    padding: 0px 20px;
+    height: 50px;
+    background-color: aliceblue;
+}
+nav ul{
+    float:right;
+    margin-right: 10px 5px;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 10px;
+    margin: 0 5px;
+    text-align: center;
+
+}
+div.cl{
+    margin:0px;
+    background-color: rgb(46, 70, 139);
+}
+div.cl .ul{
+    float:right;
+
+    margin: 5px 10px;
+}
+div.cl.ul.li{
+    display: inline-block;
+
+}
+div.tr{
+    padding: 100px 40px 60px 500px;
+    
+}
+button{
+    background-color: royalblue;
+}
+.er{
+    margin:  100px 450px 60px 0px ;
+    padding: 0px 5px;
+    box-sizing: border-box;
+}
+.er ul{
+    background-color: yellow;
+    text-decoration: none;
+    
+}
+.er ul li{
+    display: inline-block;
+    line-height: 40px;
+    margin: 0px 5px;
+    justify-content: space-evenly;
+
+}
+.er ul li a{
+    justify-content: space-evenly;
+}
